@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2013.09.27 13:20:02.041,=C:\Users\ertunc.efeoglu\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013.09.27 13:22:03.352,C:\Users\ertunc.efeoglu\Documents\RAD Studio\Projects\dscalc\MyServer.pas=C:\Users\ertunc.efeoglu\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013.09.27 13:22:03.352,C:\Users\ertunc.efeoglu\Documents\RAD Studio\Projects\dscalc\MyServer.dfm=C:\Users\ertunc.efeoglu\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2013.09.27 13:22:18.539,C:\Users\ertunc.efeoglu\Documents\RAD Studio\Projects\dscalc\MyServerProj.dproj=C:\Users\ertunc.efeoglu\Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2013.09.27 13:23:25.439,=C:\Users\ertunc.efeoglu\Documents\RAD Studio\Projects\dscalc\Unit1.pas</Transaction>
+    <Transaction>2013.09.27 13:23:38.341,C:\Users\ertunc.efeoglu\Documents\RAD Studio\Projects\dscalc\MyClass.pas=C:\Users\ertunc.efeoglu\Documents\RAD Studio\Projects\dscalc\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
